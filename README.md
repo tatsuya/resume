@@ -1,5 +1,5 @@
 # resume
 
-My resumes since 2015.
+My resumes which I started wriging and keeping since 2015.
 
-I use Apple's [Pages](https://www.apple.com/lae/pages/) app to write my resume. You can either open `resume-20XX.pages` with Pages or preview `resume-20XX.pdf` with PDF viewers.
+View `.pdf` versions or edit `.pages` with [Apple's Pages](https://www.apple.com/pages/).
